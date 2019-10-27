@@ -19,7 +19,7 @@ public class Recipe {
     private Integer cookTime;
     private Integer servings;
     private String source;
-    private String ur;
+    private String url;
 
     @Lob //CLOB
     private String directions;
